@@ -2,7 +2,7 @@
 [![python](https://img.shields.io/badge/Python-3.9-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
 [![jupyter](https://img.shields.io/badge/Jupyter-Lab-F37626.svg?style=flat&logo=Jupyter)](https://jupyterlab.readthedocs.io/en/stable)
 
-This repository contains the data and scripts for the paper [Characterising the Creative Process in Humans and Large Language Models](https://psyarxiv.com/nuep7/) submitted to [ICCC'24](https://computationalcreativity.net/iccc24/). 
+This repository contains the data and scripts for the paper [Characterising the Creative Process in Humans and Large Language Models](http://arxiv.org/abs/2405.00899) accepted at [ICCC'24](https://computationalcreativity.net/iccc24/). 
 Authors: [Surabhi S Nath](https://surabhisnath.github.io), [Peter Dayan](https://www.mpg.de/12309357/biologische-kybernetik-dayan), [Claire Stevenson](https://www.uva.nl/en/profile/s/t/c.e.stevenson/c.e.stevenson.html)
 
 ## Abstract
