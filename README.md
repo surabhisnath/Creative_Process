@@ -17,7 +17,7 @@ Scripts (and requirements) to call LLMs in `scripts_LLM`\
 Response embeddings in `embeddings`\
 Response translations in `translations`\
 Paper figures in `figures`\
-Script to make csvs in `scripts/make_csvs.ipynb`. Final csv provided in `csvs/` as `data_humans.csv` and `data_LLMs.csv`
+Script to make csvs in `scripts/make_csvs.ipynb`. Final csv provided in `csvs/` as `data_humans.csv` and `data_LLMs.csv`\
 All analyses in `scripts/Analysis.ipynb`. This is the only file which needs to be run to obtain all plots and results.
 
 ## Setup
