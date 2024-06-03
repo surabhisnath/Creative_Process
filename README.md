@@ -11,14 +11,14 @@ Large language models appear quite creative, often performing on par with the av
 ![Graphical Abstract](figures/Abstract.png)
 
 ## Repository Description
-Refer to preprint `Characterising_Creative_Process_Humans_LLMs.pdf` for all details of the study and the findings from it\
 Human data files in `data`\
 LLM data files in `data_LLM`\
-Scripts to call LLMs in `scripts_LLM`\
+Scripts (and requirements) to call LLMs in `scripts_LLM`\
 Response embeddings in `embeddings`\
 Response translations in `translations`\
 Paper figures in `figures`\
-All Analyses script in `scripts/Analysis.ipynb`
+Script to make csvs in `scripts/make_csvs.ipynb`. Final csv provided in `csvs/` as `data_humans.csv` and `data_LLMs.csv`
+All analyses in `scripts/Analysis.ipynb`. This is the only file which needs to be run to obtain all plots and results.
 
 ## Setup
 We recommend setting up a python virtual environment and installing all the requirements. Please follow these steps:
