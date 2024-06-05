@@ -1,8 +1,9 @@
+wheel
 matplotlib
 nltk
 numpy
 pandas==1.4.4
-scikit_learn==1.0.2
+scikit_learn<1.4.0
 scipy
 seaborn
 sentence_transformers
