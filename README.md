@@ -42,7 +42,8 @@ To reproduce the results from the paper, run
 ```bash
 jupyter-lab
 ```
-and open the file `scripts/Analysis.ipynb` and run the file (either in one go or cell by cell).
+and open the file `scripts/Analysis.ipynb` and run the file (either in one go or cell by cell).\
+If you wish to re-create the csv file, run `scripts/make_csvs.ipynb`.
 
 ## Citation
 If you found this work useful, please consider citing us:
