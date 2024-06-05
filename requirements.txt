@@ -7,3 +7,4 @@ scipy
 seaborn
 sentence_transformers
 statsmodels
+jupyterlab
